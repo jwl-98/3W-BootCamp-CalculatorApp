@@ -7,6 +7,7 @@ SwiftUI를 사용해 만들었습니다
 도전 과제는 LV.6~ LV.8 까지 입니다.
 ****
 
-##LV.1 
-<img width="691" alt="스크린샷 2024-11-11 오후 12 53 07" src="https://github.com/user-attachments/assets/99e249db-3f57-4a91-8b7f-ad98e2e6e898">
+## LV.1 
 
+
+<img width="728" alt="스크린샷 2024-11-11 오후 1 24 06" src="https://github.com/user-attachments/assets/2dfd0763-223a-49b1-9168-2b2db8fc9c72">
