@@ -31,6 +31,15 @@ Views에는 계산기 메인 화면의 색상, 레이블의 설정, 레이블의
 
 ### 기능구현
 반복문을 통해서 버튼을 16개를 한꺼번에 생성했습니다.
+
+<img width="1328" alt="스크린샷 2024-11-12 오후 5 39 12" src="https://github.com/user-attachments/assets/516d25c9-6a97-4178-8323-b18421d6a011">
+
+
+
 4개의 버튼을 horizontalityStackView 에서 우선 가로 정렬로 스택뷰에 담습니다.
+
+<img width="1341" alt="스크린샷 2024-11-12 오후 5 39 24" src="https://github.com/user-attachments/assets/39803e37-651e-4a55-bab3-7d9464f94e80">
+
+
 그리고 stackView를 통해서 담긴버튼들을 다시 스택뷰로 묶습니다.
 지금 추후에 연산은 어떻게 연결 해야할지.. 큰일났습니다...
