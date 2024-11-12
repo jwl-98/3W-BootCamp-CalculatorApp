@@ -48,6 +48,7 @@ Views에는 계산기 메인 화면의 색상, 레이블의 설정, 레이블의
 
 숫자 이외의 버튼을 오렌지색으로 변경하기
 
+<img width="1403" alt="스크린샷 2024-11-12 오후 7 43 28" src="https://github.com/user-attachments/assets/35ee0a16-2025-4d1b-8742-c9d95517c59f">
 
 ### 기능구현
 
