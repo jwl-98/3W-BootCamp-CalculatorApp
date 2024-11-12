@@ -44,8 +44,12 @@ class CalculatorView: UIView {
                     button.setTitle(buttonLabel[i-1], for: .normal)
                     //button.layer.cornerRadius = 40
                     
+                if Int(buttonLabel[i-1]) == nil {
+                    button.backgroundColor = .orange
+                }
                     saveButton.append(button) //생성된 버튼의 갯수만큼 배열에 추가
                 }
+            
                 return saveButton
         }()
     
