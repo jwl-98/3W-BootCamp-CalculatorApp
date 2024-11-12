@@ -22,4 +22,15 @@ Controllers 세가지 폴더로 분리했습니다.
 Views에는 계산기 메인 화면의 색상, 레이블의 설정, 레이블의 오토레이아웃 설정이 있습니다. 
 이 설정은 Controllers 폴더내 ViewController에서 loadView()에서 
 기본 view을 calculatorView로 교체합니다.
+****
 
+## LV.2, LV3 2024.11.12
+
+버튼을 생성해서 UIStackView에 넣기
+
+
+### 기능구현
+반복문을 통해서 버튼을 16개를 한꺼번에 생성했습니다.
+4개의 버튼을 horizontalityStackView 에서 우선 가로 정렬로 스택뷰에 담습니다.
+그리고 stackView를 통해서 담긴버튼들을 다시 스택뷰로 묶습니다.
+지금 추후에 연산은 어떻게 연결 해야할지.. 큰일났습니다...
